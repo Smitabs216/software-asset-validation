@@ -1,0 +1,201 @@
+Asset_ID,Owner,Software_Name,Version,Purchase_Date,Expiry_Date,Department
+AST1000,Priya Das,VS Code Enterprise,3.6,2024-05-09,2026-03-31,Operations
+AST1001,Priya Das,VS Code Enterprise,7.8,2024-08-09,2026-11-25,HR
+AST1002,Amit Sharma,VS Code Enterprise,10.0,2022-12-13,2024-07-13,Finance
+AST1003,Amit Sharma,Power BI Pro,5.5,2022-01-18,2024-08-28,Finance
+AST1004,Rahul Sen,Tableau,7.8,2023-08-22,2025-10-26,Finance
+AST1005,Sneha Paul,Slack Enterprise,1.2,2024-12-12,2026-08-29,HR
+AST1006,Priya Das,Microsoft Office,8.3,2025-01-29,2027-08-16,Engineering
+AST1007,Vikram Singh,Tableau,2.4,2023-06-07,2026-01-27,IT
+AST1008,Vikram Singh,VS Code Enterprise,2.5,2022-11-23,2025-06-06,Finance
+AST1009,Arjun Roy,VS Code Enterprise,1.5,2024-03-19,2025-08-25,IT
+AST1010,Amit Sharma,VS Code Enterprise,4.6,2022-05-28,2023-03-02,IT
+AST1011,Sneha Paul,Adobe Photoshop,7.4,2022-04-10,2024-08-18,Engineering
+AST1012,Rahul Sen,Slack Enterprise,2.2,2023-07-31,2025-12-20,Engineering
+AST1013,Neha Gupta,Tableau,7.2,2024-06-04,2025-07-22,Operations
+AST1014,Neha Gupta,Tableau,10.9,2023-01-26,2024-05-20,HR
+AST1015,Amit Sharma,Microsoft Office,3.3,2024-09-18,2025-08-31,Operations
+AST1016,Vikram Singh,Microsoft Office,10.1,2022-05-09,2023-05-17,Marketing
+AST1017,Amit Sharma,Jira,8.3,2023-03-17,2025-03-03,Marketing
+AST1018,Sneha Paul,Jira,4.9,2023-09-16,2025-05-04,HR
+AST1019,Vikram Singh,Power BI Pro,4.2,2024-01-30,2026-03-19,IT
+AST1020,Ananya Dey,Microsoft Office,10.1,2024-03-02,2025-01-14,Engineering
+AST1021,Neha Gupta,Jira,6.2,2022-06-16,2024-05-26,Marketing
+AST1022,Sneha Paul,Microsoft Office,2.6,2022-11-29,2024-11-22,Engineering
+AST1023,Arjun Roy,Microsoft Office,1.5,2024-02-21,2025-08-14,Finance
+AST1024,Vikram Singh,Microsoft Office,8.6,2022-07-16,2024-06-28,HR
+AST1025,Rahul Sen,Tableau,7.7,2022-07-08,2023-08-26,IT
+AST1026,Rahul Sen,Adobe Photoshop,10.7,2022-04-02,2024-02-16,Operations
+AST1027,Rahul Sen,Tableau,6.6,2024-02-12,2025-07-28,IT
+AST1028,Amit Sharma,Microsoft Office,4.8,2022-11-24,2023-12-31,IT
+AST1029,Ananya Dey,Tableau,9.5,2024-08-31,2026-10-25,Finance
+AST1030,Ananya Dey,Slack Enterprise,6.7,2023-08-24,2024-09-23,Operations
+AST1031,Priya Das,Power BI Pro,4.3,2023-04-20,2026-01-25,HR
+AST1032,Amit Sharma,AutoCAD,10.8,2023-11-08,2024-09-15,Operations
+AST1033,Sneha Paul,Power BI Pro,4.4,2024-08-29,2026-01-22,Marketing
+AST1034,Amit Sharma,Microsoft Office,6.3,2022-06-30,2024-03-07,Finance
+AST1035,Sneha Paul,Microsoft Office,6.5,2022-01-01,2022-09-10,IT
+AST1036,Arjun Roy,Adobe Photoshop,2.3,2024-04-22,2026-12-11,HR
+AST1037,Amit Sharma,Tableau,6.2,2024-11-07,2026-02-19,Engineering
+AST1038,Vikram Singh,Jira,9.2,2023-11-04,2026-01-12,Finance
+AST1039,Neha Gupta,Microsoft Office,2.9,2023-04-25,2025-06-21,Marketing
+AST1040,Sneha Paul,Power BI Pro,4.1,2022-11-19,2025-10-15,HR
+AST1041,Arjun Roy,Microsoft Office,8.4,2024-02-05,2025-11-09,IT
+AST1042,Arjun Roy,Jira,6.6,2022-12-16,2024-12-28,HR
+AST1043,Vikram Singh,Adobe Photoshop,1.9,2023-07-15,2025-05-25,Operations
+AST1044,Priya Das,Slack Enterprise,2.6,2022-01-26,2024-12-30,IT
+AST1045,Priya Das,Adobe Photoshop,9.6,2024-02-14,2025-12-08,Finance
+AST1046,Sneha Paul,Jira,4.5,2023-12-25,2026-12-12,Finance
+AST1047,Ananya Dey,VS Code Enterprise,1.9,2023-05-23,2024-09-10,Marketing
+AST1048,Neha Gupta,Tableau,4.5,2024-02-06,2026-09-05,Marketing
+AST1049,Vikram Singh,Jira,3.0,2022-09-09,2024-08-22,IT
+AST1050,Priya Das,Slack Enterprise,6.8,2022-04-04,2025-02-07,Marketing
+AST1051,Priya Das,Adobe Photoshop,4.9,2023-03-22,2024-07-02,Engineering
+AST1052,Amit Sharma,AutoCAD,9.0,2022-12-17,2024-09-25,Operations
+AST1053,Vikram Singh,Tableau,4.3,2022-01-03,2023-02-25,Engineering
+AST1054,Sneha Paul,Slack Enterprise,8.7,2025-03-19,2027-09-02,HR
+AST1055,Sneha Paul,VS Code Enterprise,10.3,2025-02-27,2026-03-25,Finance
+AST1056,Neha Gupta,Slack Enterprise,5.5,2023-03-22,2025-10-30,HR
+AST1057,Sneha Paul,AutoCAD,5.5,2022-12-11,2025-09-12,Operations
+AST1058,Rahul Sen,Jira,5.5,2023-03-18,2024-04-03,Engineering
+AST1059,Amit Sharma,Jira,6.3,2023-01-20,2025-01-24,Engineering
+AST1060,Rahul Sen,Slack Enterprise,2.1,2023-06-01,2025-05-23,Finance
+AST1061,Ananya Dey,Tableau,5.9,2025-04-05,2027-12-26,Operations
+AST1062,Vikram Singh,AutoCAD,9.2,2025-04-12,2028-03-20,Engineering
+AST1063,Arjun Roy,VS Code Enterprise,2.7,2023-12-09,2026-07-16,Engineering
+AST1064,Rahul Sen,Tableau,8.4,2023-09-12,2025-03-08,Operations
+AST1065,Vikram Singh,Slack Enterprise,7.3,2022-12-25,2025-08-08,Operations
+AST1066,Priya Das,Microsoft Office,7.4,2024-05-13,2026-05-29,Operations
+AST1067,Amit Sharma,Microsoft Office,9.8,2023-12-02,2026-01-12,IT
+AST1068,Amit Sharma,Microsoft Office,10.0,2025-02-10,2027-02-10,HR
+AST1069,Rahul Sen,Microsoft Office,4.5,2023-06-09,2024-11-21,Finance
+AST1070,Amit Sharma,Adobe Photoshop,9.6,2023-05-19,2024-11-08,Operations
+AST1071,Priya Das,Adobe Photoshop,10.2,2022-11-01,2024-03-17,IT
+AST1072,Sneha Paul,Microsoft Office,3.9,2024-03-26,2025-09-11,IT
+AST1073,Vikram Singh,AutoCAD,6.0,2023-03-07,2024-01-21,Marketing
+AST1074,Priya Das,Slack Enterprise,5.9,2024-08-07,2026-01-25,IT
+AST1075,Arjun Roy,Power BI Pro,2.2,2023-06-28,2024-02-19,Operations
+AST1076,Ananya Dey,Microsoft Office,10.7,2022-10-13,2023-07-12,Marketing
+AST1077,Ananya Dey,VS Code Enterprise,1.1,2022-12-01,2024-06-04,IT
+AST1078,Sneha Paul,Power BI Pro,10.9,2024-03-21,2024-11-15,Engineering
+AST1079,Vikram Singh,AutoCAD,10.3,2025-01-19,2027-06-24,Engineering
+AST1080,Sneha Paul,Slack Enterprise,4.6,2023-10-16,2026-03-12,Engineering
+AST1081,Priya Das,Microsoft Office,5.5,2025-04-15,2027-10-23,HR
+AST1082,Neha Gupta,Microsoft Office,10.6,2025-03-30,2025-12-19,HR
+AST1083,Neha Gupta,Power BI Pro,7.4,2023-09-06,2024-09-17,Marketing
+AST1084,Arjun Roy,VS Code Enterprise,5.7,2025-02-02,2025-09-10,HR
+AST1085,Sneha Paul,Adobe Photoshop,4.1,2025-01-17,2027-06-01,Operations
+AST1086,Priya Das,AutoCAD,9.2,2022-03-25,2022-10-22,Operations
+AST1087,Priya Das,Slack Enterprise,7.1,2022-11-19,2023-12-07,IT
+AST1088,Priya Das,Microsoft Office,10.8,2023-02-22,2026-02-20,Finance
+AST1089,Sneha Paul,Power BI Pro,4.0,2024-04-30,2025-07-21,HR
+AST1090,Amit Sharma,Power BI Pro,3.2,2023-03-07,2026-02-13,Operations
+AST1091,Sneha Paul,Power BI Pro,4.0,2025-02-02,2027-02-03,Finance
+AST1092,Priya Das,AutoCAD,9.6,2024-05-20,2026-05-31,Finance
+AST1093,Neha Gupta,Tableau,2.3,2024-12-28,2027-08-30,Operations
+AST1094,Sneha Paul,VS Code Enterprise,3.5,2022-05-10,2023-11-17,Finance
+AST1095,Sneha Paul,Microsoft Office,5.0,2023-04-05,2024-05-25,IT
+AST1096,Rahul Sen,Power BI Pro,4.3,2023-12-21,2024-09-02,IT
+AST1097,Sneha Paul,AutoCAD,5.3,2024-12-31,2026-02-25,Finance
+AST1098,Priya Das,AutoCAD,3.8,2024-10-09,2026-11-13,Operations
+AST1099,Amit Sharma,Tableau,7.7,2023-12-07,2026-06-30,Marketing
+AST1100,Rahul Sen,Adobe Photoshop,4.4,2023-09-12,2026-08-05,IT
+AST1101,Ananya Dey,Power BI Pro,4.9,2022-11-03,2024-11-08,Engineering
+AST1102,Vikram Singh,Slack Enterprise,7.6,2023-07-24,2025-02-13,Engineering
+AST1103,Vikram Singh,Slack Enterprise,8.2,2024-06-15,2026-02-21,HR
+AST1104,Neha Gupta,Jira,6.3,2022-03-20,2023-03-05,Operations
+AST1105,Neha Gupta,Adobe Photoshop,9.5,2024-03-20,2025-11-04,IT
+AST1106,Rahul Sen,Tableau,3.7,2022-10-12,2024-05-15,IT
+AST1107,Vikram Singh,Power BI Pro,8.3,2023-07-05,2025-02-04,HR
+AST1108,Rahul Sen,Power BI Pro,3.9,2023-12-08,2026-09-05,HR
+AST1109,Arjun Roy,Microsoft Office,8.9,2024-09-26,2027-09-05,Finance
+AST1110,Priya Das,Adobe Photoshop,10.4,2023-06-07,2024-08-29,Operations
+AST1111,Ananya Dey,Jira,1.7,2023-12-02,2024-08-03,Engineering
+AST1112,Arjun Roy,VS Code Enterprise,3.2,2022-05-10,2023-09-24,Finance
+AST1113,Arjun Roy,AutoCAD,1.0,2025-02-19,2027-06-10,Engineering
+AST1114,Amit Sharma,Microsoft Office,7.6,2025-02-01,2027-08-12,Finance
+AST1115,Arjun Roy,Slack Enterprise,7.4,2024-09-06,2027-04-13,HR
+AST1116,Sneha Paul,Jira,10.2,2024-03-17,2025-03-06,Engineering
+AST1117,Neha Gupta,Microsoft Office,10.5,2023-08-31,2026-03-15,IT
+AST1118,Vikram Singh,Jira,6.9,2023-10-08,2024-07-20,Engineering
+AST1119,Ananya Dey,Slack Enterprise,9.6,2022-08-20,2023-06-18,Finance
+AST1120,Rahul Sen,VS Code Enterprise,2.0,2023-03-31,2024-10-23,Marketing
+AST1121,Priya Das,AutoCAD,2.4,2025-02-13,2027-01-05,HR
+AST1122,Vikram Singh,Power BI Pro,1.6,2023-12-12,2024-10-25,Operations
+AST1123,Arjun Roy,VS Code Enterprise,7.4,2024-10-21,2027-10-14,HR
+AST1124,Arjun Roy,Power BI Pro,4.3,2024-02-20,2026-11-27,Engineering
+AST1125,Rahul Sen,Jira,2.1,2023-11-22,2026-03-03,Engineering
+AST1126,Sneha Paul,Power BI Pro,1.4,2025-02-05,2027-10-15,Operations
+AST1127,Vikram Singh,Jira,7.4,2022-05-06,2024-02-24,IT
+AST1128,Amit Sharma,Slack Enterprise,5.8,2023-08-18,2024-08-12,Operations
+AST1129,Neha Gupta,Slack Enterprise,8.3,2023-02-25,2026-02-14,Finance
+AST1130,Rahul Sen,VS Code Enterprise,4.2,2023-11-28,2024-05-28,Engineering
+AST1131,Vikram Singh,VS Code Enterprise,2.8,2023-09-07,2025-03-03,Operations
+AST1132,Amit Sharma,Slack Enterprise,7.1,2022-08-28,2025-07-22,HR
+AST1133,Vikram Singh,Microsoft Office,9.2,2025-02-23,2026-01-13,Finance
+AST1134,Ananya Dey,Tableau,9.8,2023-03-30,2025-11-01,Engineering
+AST1135,Vikram Singh,VS Code Enterprise,4.4,2022-03-11,2023-01-20,Marketing
+AST1136,Amit Sharma,Tableau,8.2,2023-07-11,2025-05-26,Engineering
+AST1137,Amit Sharma,Slack Enterprise,2.0,2022-07-10,2025-03-09,HR
+AST1138,Ananya Dey,Adobe Photoshop,3.1,2023-02-01,2024-05-14,Marketing
+AST1139,Neha Gupta,Microsoft Office,10.1,2024-05-10,2026-04-16,Operations
+AST1140,Sneha Paul,Slack Enterprise,7.2,2024-09-28,2027-07-25,Operations
+AST1141,Priya Das,Microsoft Office,6.6,2024-09-01,2026-04-26,Operations
+AST1142,Arjun Roy,AutoCAD,9.2,2024-06-24,2026-09-27,Finance
+AST1143,Vikram Singh,Slack Enterprise,9.4,2022-01-27,2023-09-14,Operations
+AST1144,Priya Das,Jira,4.9,2024-02-07,2025-12-02,HR
+AST1145,Vikram Singh,AutoCAD,8.6,2024-06-18,2026-10-10,Finance
+AST1146,Priya Das,Adobe Photoshop,10.3,2024-09-15,2025-07-09,Finance
+AST1147,Sneha Paul,Slack Enterprise,2.3,2023-02-25,2025-11-28,Finance
+AST1148,Rahul Sen,Jira,9.3,2023-11-13,2026-06-30,Operations
+AST1149,Ananya Dey,VS Code Enterprise,10.9,2024-10-30,2026-06-15,IT
+AST1150,Ananya Dey,Slack Enterprise,3.4,2024-01-05,2025-09-16,Marketing
+AST1151,Amit Sharma,VS Code Enterprise,2.4,2023-03-19,2025-02-28,Finance
+AST1152,Rahul Sen,Jira,5.3,2022-04-01,2024-09-18,Engineering
+AST1153,Amit Sharma,Power BI Pro,4.8,2023-12-24,2026-03-11,Marketing
+AST1154,Rahul Sen,AutoCAD,6.3,2023-03-24,2024-08-19,Finance
+AST1155,Ananya Dey,Tableau,9.7,2024-04-27,2026-04-22,Marketing
+AST1156,Ananya Dey,Adobe Photoshop,4.0,2023-06-24,2024-07-14,Finance
+AST1157,Neha Gupta,Microsoft Office,6.2,2023-10-06,2025-07-10,Engineering
+AST1158,Vikram Singh,Power BI Pro,5.2,2024-01-01,2025-09-20,IT
+AST1159,Vikram Singh,AutoCAD,8.6,2024-04-21,2025-09-27,Finance
+AST1160,Sneha Paul,VS Code Enterprise,4.8,2023-06-08,2024-06-28,Operations
+AST1161,Amit Sharma,Power BI Pro,7.9,2023-08-14,2025-07-16,HR
+AST1162,Neha Gupta,Slack Enterprise,6.0,2022-04-24,2023-09-06,HR
+AST1163,Amit Sharma,Jira,9.5,2023-10-18,2025-06-12,Finance
+AST1164,Arjun Roy,Power BI Pro,6.8,2022-11-13,2024-07-02,IT
+AST1165,Priya Das,Tableau,5.7,2022-08-01,2024-08-11,Marketing
+AST1166,Priya Das,Power BI Pro,2.8,2025-04-02,2027-05-06,Marketing
+AST1167,Neha Gupta,Jira,1.5,2023-11-22,2026-09-28,Finance
+AST1168,Amit Sharma,Microsoft Office,6.7,2024-05-04,2027-03-22,Finance
+AST1169,Vikram Singh,Jira,3.7,2022-02-12,2024-01-14,HR
+AST1170,Amit Sharma,AutoCAD,10.2,2022-08-29,2023-09-07,Operations
+AST1171,Amit Sharma,Slack Enterprise,7.1,2023-11-28,2026-05-24,HR
+AST1172,Amit Sharma,Jira,8.7,2023-03-31,2026-01-27,IT
+AST1173,Neha Gupta,Tableau,10.1,2022-11-05,2023-07-08,HR
+AST1174,Neha Gupta,Tableau,10.3,2022-03-10,2024-02-12,HR
+AST1175,Vikram Singh,Adobe Photoshop,10.5,2023-09-09,2025-03-29,HR
+AST1176,Ananya Dey,AutoCAD,7.7,2023-11-10,2025-02-14,Operations
+AST1177,Ananya Dey,AutoCAD,3.8,2024-07-15,2025-12-21,Engineering
+AST1178,Amit Sharma,AutoCAD,9.0,2022-07-25,2025-05-29,Engineering
+AST1179,Vikram Singh,Power BI Pro,1.9,2023-08-20,2025-06-07,Engineering
+AST1180,Priya Das,Tableau,4.5,2022-12-22,2025-07-09,Operations
+AST1181,Arjun Roy,Jira,3.0,2023-09-13,2025-10-07,Marketing
+AST1182,Priya Das,Slack Enterprise,10.5,2022-08-26,2024-10-17,HR
+AST1183,Arjun Roy,AutoCAD,10.7,2024-10-03,2025-06-11,Engineering
+AST1184,Ananya Dey,Microsoft Office,9.5,2025-04-06,2026-11-19,Marketing
+AST1185,Priya Das,Jira,7.9,2023-02-16,2025-12-28,Finance
+AST1186,Arjun Roy,Slack Enterprise,7.5,2022-07-22,2025-04-05,Engineering
+AST1187,Priya Das,Slack Enterprise,10.2,2023-05-18,2025-11-21,Marketing
+AST1188,Priya Das,VS Code Enterprise,8.7,2022-11-28,2024-06-12,Finance
+AST1189,Amit Sharma,Slack Enterprise,3.8,2023-01-05,2023-07-18,Marketing
+AST1190,Sneha Paul,Microsoft Office,8.5,2024-04-23,2025-10-15,Operations
+AST1191,Sneha Paul,Jira,3.8,2022-10-26,2024-03-20,Marketing
+AST1192,Vikram Singh,Jira,10.1,2025-01-23,2026-03-20,Finance
+AST1193,Arjun Roy,Slack Enterprise,7.0,2023-09-12,2024-05-13,IT
+AST1194,Arjun Roy,Microsoft Office,3.0,2025-02-11,2026-12-11,Operations
+AST1195,Arjun Roy,AutoCAD,10.3,2023-12-21,2025-08-02,HR
+AST1196,Vikram Singh,Jira,6.6,2023-02-14,2024-04-01,Finance
+AST1197,Priya Das,Jira,5.7,2024-07-28,2026-08-22,HR
+AST1198,Neha Gupta,Slack Enterprise,1.5,2022-08-08,2023-02-16,Marketing
+AST1199,Neha Gupta,Adobe Photoshop,5.4,2023-03-19,2023-10-20,Engineering
